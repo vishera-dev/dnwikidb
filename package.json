@@ -12,6 +12,9 @@
     "deploy": "sh deploy.sh"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
     "@mdi/font": "5.9.55",
     "pinia": "^2.0.32",
     "roboto-fontface": "*",

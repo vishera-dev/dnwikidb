@@ -4,8 +4,9 @@
         <v-app-bar-nav-icon @click="drawer = !drawer" class="grey--text"></v-app-bar-nav-icon>
         <!-- <img src="../../assets/dnlogo.png" width="75" height="75"/> -->
         <v-toolbar-title class="text-uppercase grey--text">
-            <span class="font-weight-light">Project: </span>
-            <span>DN</span>
+            <!-- <span class="font-weight-light">Project: </span> -->
+            <font-awesome-icon icon="fa-solid fa-dragon" />
+            <span> Nest</span>
         </v-toolbar-title>
         <v-spacer></v-spacer>
         <div class="exchange-rate-reminder"> 

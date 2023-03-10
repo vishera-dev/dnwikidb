@@ -1,6 +1,8 @@
 <template>
   <div class="dashboard-container">
-      Work in Progress..
+    <font-awesome-icon icon="fa-solid fa-screwdriver-wrench" />
+      Work in progress
+    <font-awesome-icon icon="fa-solid fa-screwdriver-wrench" />
   </div>
 </template>
 
@@ -15,6 +17,6 @@ export default {
   text-align: center;
   margin-top: 100px;
   font-family: 'Lato';
-  font-size: 50px;
+  font-size: 25px;
 }
 </style>
