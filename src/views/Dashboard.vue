@@ -1,6 +1,6 @@
 <template>
-  <div>
-    Placeholder
+  <div class="dashboard-container">
+      Work in Progress..
   </div>
 </template>
 
@@ -11,5 +11,10 @@ export default {
 </script>
 
 <style>
-
+.dashboard-container {
+  text-align: center;
+  margin-top: 100px;
+  font-family: 'Lato';
+  font-size: 50px;
+}
 </style>

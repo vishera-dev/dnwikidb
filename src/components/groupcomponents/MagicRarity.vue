@@ -1,9 +1,9 @@
 <template>
     <div class="matrix-table">
         <v-table density="compact">
-            <thead>
+            <thead >
                 <!-- <tr style="text-align:center; background-color: greenyellow;"> Magic </tr> -->
-                <tr>
+                <tr >
                     <th v-for="header in headers" :key="header.name">
                         {{ header.text }}
                     </th>
@@ -60,9 +60,7 @@ export default {
 .matrix-table {
     align-self: center;
     width: 900px;
-    margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
 }
-
 </style>

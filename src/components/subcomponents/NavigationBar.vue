@@ -10,13 +10,12 @@
         <v-spacer></v-spacer>
         <div class="exchange-rate-reminder"> 
             Exchange Rates:
-            <a class="exchange-rate-text">  3Php / 1GS | 6php / 1mG </a>
+            <a class="exchange-rate-text"> 3Php/1GS 6Php/1mG </a> 
         </div>
         <a class="exchange-rate-reminder"> | </a>
         <div class="navigation-timer-notification"> 
             Time: 
             <a class="navigation-timer-text"> {{ time }}</a> 
-            
         </div>
         <!-- <v-btn flat color="grey">
             <span>Sign Out</span>
@@ -49,10 +48,10 @@ export default {
             drawer: false,
             navIcons: [
                 { icon: 'mdi-view-dashboard', text: 'Dashboard', route: '/' },
-                { icon: 'mdi-sword', text: 'Classes', route: '/classes' },
+                // { icon: 'mdi-sword', text: 'Classes', route: '/classes' },
                 { icon: 'mdi-hexagon-outline', text: 'Jades', route: '/jades' },
                 { icon: 'mdi-necklace', text: 'Talismans', route: '/talismans' },
-                { icon: 'mdi-dice-d8-outline', text: 'Heraldries', route: '/heraldries' },
+                // { icon: 'mdi-dice-d8-outline', text: 'Heraldries', route: '/heraldries' },
                 { icon: 'mdi-pentagon-outline', text: 'Runes', route: '/runes' }
             ],
             interval: null,
@@ -80,27 +79,25 @@ export default {
 
 <style>
 .exchange-rate-reminder {
-    color: rgb(92,107,192);
+    color: grey;
     font-size: 15px;
     margin-right: 15px;
 }
 
 .exchange-rate-text {
-    color: rgb(75, 75, 75);
+    color: black;
     font-size: 15px;
-    font-weight: 10;
     margin-right: 15px;
 }
 
 .navigation-timer-notification {
-    color: rgb(92,107,192);
+    color: grey;
     font-size: 15px;
-    margin-right: 50px;    
+    margin-right: 25px;    
 }
 
 .navigation-timer-text {
-    color: rgb(75, 75, 75);
+    color: black;
     font-size: 15px;
-    margin-right: 50px;    
 }
 </style>

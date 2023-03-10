@@ -1,6 +1,6 @@
 <template>
     <div class="matrix-table">
-        <v-table density="compact">
+        <v-table density="comfort">
             <thead>
                 <tr style="align-items:center">
                     <th> Attempt To </th>
@@ -62,8 +62,7 @@ export default {
 }
 .matrix-table {
     align-self: center;
-    width: 900px;
-    margin-top: 30px;
+    padding-top: 30px;
     margin-left: auto;
     margin-right: auto;
 }

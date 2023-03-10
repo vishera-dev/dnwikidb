@@ -1,231 +1,461 @@
 [
     {
         "step": 1,
-        "rate": 84.18,
+        "rate": 20,
         "talismanType": [
             {
                 "name":"IronWall",
                 "text":"Iron Wall",
-                "value":35100
+                "value":36660
             },
             {
                 "name":"Tent",
                 "text":"Tent",
-                "value":35100
+                "value":36660
             },
             {
                 "name":"Destruction",
                 "text":"Destruction",
-                "value":34363
+                "value":56308
             },
             {
                 "name":"Magic",
                 "text":"Magic",
-                "value":34363
+                "value":56308
             },
             {
                 "name":"Fatal",
                 "text":"Fatal",
-                "value":118903
+                "value":123984
             },
             {
                 "name":"Limitation",
                 "text":"Limitation",
-                "value":397806
+                "value":414806
             },
             {
                 "name":"LifeVitality",
                 "text":"Life Vitality",
-                "value":576517
+                "value":611582
             },
             {
                 "name":"atk",
                 "text":"Atk%",
-                "value":1.0
+                "value":2.3
             }
         ]
     },
     {
         "step": 2,
-        "rate": 25.92,
+        "rate": 20,
         "talismanType": [
             {
                 "name":"IronWall",
                 "text":"Iron Wall",
-                "value":35100
+                "value":39600
             },
             {
                 "name":"Tent",
                 "text":"Tent",
-                "value":35100
+                "value":39600
             },
             {
                 "name":"Destruction",
                 "text":"Destruction",
-                "value":34363
+                "value":60923
             },
             {
                 "name":"Magic",
                 "text":"Magic",
-                "value":34363
+                "value":60923
             },
             {
                 "name":"Fatal",
                 "text":"Fatal",
-                "value":118903
+                "value":134147
             },
             {
                 "name":"Limitation",
                 "text":"Limitation",
-                "value":397806
+                "value":414806
             },
             {
                 "name":"LifeVitality",
                 "text":"Life Vitality",
-                "value":576517
+                "value":611582
             },
             {
                 "name":"atk",
                 "text":"Atk%",
-                "value":1.2
+                "value":2.3
             }
         ]
     },
     {
         "step": 3,
-        "rate": 18.14,
+        "rate": 20,
         "talismanType": [
             {
                 "name":"IronWall",
                 "text":"Iron Wall",
-                "value":35100
+                "value":42600
             },
             {
                 "name":"Tent",
                 "text":"Tent",
-                "value":35100
+                "value":42600
             },
             {
                 "name":"Destruction",
                 "text":"Destruction",
-                "value":34363
+                "value":65538
             },
             {
                 "name":"Magic",
                 "text":"Magic",
-                "value":34363
+                "value":65538
             },
             {
                 "name":"Fatal",
                 "text":"Fatal",
-                "value":118903
+                "value":144310
             },
             {
                 "name":"Limitation",
                 "text":"Limitation",
-                "value":397806
+                "value":482807
             },
             {
                 "name":"LifeVitality",
                 "text":"Life Vitality",
-                "value":576517
+                "value":711841
             },
             {
                 "name":"atk",
                 "text":"Atk%",
-                "value":1.4
+                "value":2.3
             }
         ]
     },
     {
         "step": 4,
-        "rate": 12.70,
+        "rate": 13,
         "talismanType": [
             {
                 "name":"IronWall",
                 "text":"Iron Wall",
-                "value":35100
+                "value":36600
             },
             {
                 "name":"Tent",
                 "text":"Tent",
-                "value":35100
+                "value":36600
             },
             {
                 "name":"Destruction",
                 "text":"Destruction",
-                "value":34363
+                "value":56308
             },
             {
                 "name":"Magic",
                 "text":"Magic",
-                "value":34363
+                "value":56308
             },
             {
                 "name":"Fatal",
                 "text":"Fatal",
-                "value":118903
+                "value":129984
             },
             {
                 "name":"Limitation",
                 "text":"Limitation",
-                "value":397806
+                "value":414806
             },
             {
                 "name":"LifeVitality",
                 "text":"Life Vitality",
-                "value":576517
+                "value":611582
             },
             {
                 "name":"atk",
                 "text":"Atk%",
-                "value":1.7
+                "value":2.6
             }
         ]
     },
     {
         "step": 5,
-        "rate": 8.89,
+        "rate": 13,
         "talismanType": [
             {
                 "name":"IronWall",
                 "text":"Iron Wall",
-                "value":35100
+                "value":39600
             },
             {
                 "name":"Tent",
                 "text":"Tent",
-                "value":35100
+                "value":39600
             },
             {
                 "name":"Destruction",
                 "text":"Destruction",
-                "value":34363
+                "value":60923
             },
             {
                 "name":"Magic",
                 "text":"Magic",
-                "value":34363
+                "value":60923
             },
             {
                 "name":"Fatal",
                 "text":"Fatal",
-                "value":118903
+                "value":134147
             },
             {
                 "name":"Limitation",
                 "text":"Limitation",
-                "value":397806
+                "value":414806
             },
             {
                 "name":"LifeVitality",
                 "text":"Life Vitality",
-                "value":576517
+                "value":611582
             },
             {
                 "name":"atk",
                 "text":"Atk%",
-                "value":2.0
+                "value":2.6
+            }
+        ]
+    },
+    {
+        "step": 6,
+        "rate": 13,
+        "talismanType": [
+            {
+                "name":"IronWall",
+                "text":"Iron Wall",
+                "value":42600
+            },
+            {
+                "name":"Tent",
+                "text":"Tent",
+                "value":42600
+            },
+            {
+                "name":"Destruction",
+                "text":"Destruction",
+                "value":65538
+            },
+            {
+                "name":"Magic",
+                "text":"Magic",
+                "value":65538
+            },
+            {
+                "name":"Fatal",
+                "text":"Fatal",
+                "value":144310
+            },
+            {
+                "name":"Limitation",
+                "text":"Limitation",
+                "value":482807
+            },
+            {
+                "name":"LifeVitality",
+                "text":"Life Vitality",
+                "value":711841
+            },
+            {
+                "name":"atk",
+                "text":"Atk%",
+                "value":2.6
+            }
+        ]
+    },
+    {
+        "step": 7,
+        "rate": 0.7,
+        "talismanType": [
+            {
+                "name":"IronWall",
+                "text":"Iron Wall",
+                "value":36600
+            },
+            {
+                "name":"Tent",
+                "text":"Tent",
+                "value":36600
+            },
+            {
+                "name":"Destruction",
+                "text":"Destruction",
+                "value":56308
+            },
+            {
+                "name":"Magic",
+                "text":"Magic",
+                "value":56308
+            },
+            {
+                "name":"Fatal",
+                "text":"Fatal",
+                "value":129984
+            },
+            {
+                "name":"Limitation",
+                "text":"Limitation",
+                "value":414806
+            },
+            {
+                "name":"LifeVitality",
+                "text":"Life Vitality",
+                "value":611582
+            },
+            {
+                "name":"atk",
+                "text":"Atk%",
+                "value":3.0
+            }
+        ]
+    },
+    {
+        "step": 8,
+        "rate": 0.25,
+        "talismanType": [
+            {
+                "name":"IronWall",
+                "text":"Iron Wall",
+                "value":39600
+            },
+            {
+                "name":"Tent",
+                "text":"Tent",
+                "value":39600
+            },
+            {
+                "name":"Destruction",
+                "text":"Destruction",
+                "value":60923
+            },
+            {
+                "name":"Magic",
+                "text":"Magic",
+                "value":60923
+            },
+            {
+                "name":"Fatal",
+                "text":"Fatal",
+                "value":134147
+            },
+            {
+                "name":"Limitation",
+                "text":"Limitation",
+                "value":414806
+            },
+            {
+                "name":"LifeVitality",
+                "text":"Life Vitality",
+                "value":611582
+            },
+            {
+                "name":"atk",
+                "text":"Atk%",
+                "value":3.0
+            }
+        ]
+    },
+    {
+        "step": 9,
+        "rate": 0.049,
+        "talismanType": [
+            {
+                "name":"IronWall",
+                "text":"Iron Wall",
+                "value":42600
+            },
+            {
+                "name":"Tent",
+                "text":"Tent",
+                "value":42600
+            },
+            {
+                "name":"Destruction",
+                "text":"Destruction",
+                "value":65538
+            },
+            {
+                "name":"Magic",
+                "text":"Magic",
+                "value":65538
+            },
+            {
+                "name":"Fatal",
+                "text":"Fatal",
+                "value":144310
+            },
+            {
+                "name":"Limitation",
+                "text":"Limitation",
+                "value":482807
+            },
+            {
+                "name":"LifeVitality",
+                "text":"Life Vitality",
+                "value":711841
+            },
+            {
+                "name":"atk",
+                "text":"Atk%",
+                "value":3.0
+            }
+        ]
+    },
+    {
+        "step": 10,
+        "rate": 0.001,
+        "talismanType": [
+            {
+                "name":"IronWall",
+                "text":"Iron Wall",
+                "value":50100
+            },
+            {
+                "name":"Tent",
+                "text":"Tent",
+                "value":50100
+            },
+            {
+                "name":"Destruction",
+                "text":"Destruction",
+                "value":77077
+            },
+            {
+                "name":"Magic",
+                "text":"Magic",
+                "value":77077
+            },
+            {
+                "name":"Fatal",
+                "text":"Fatal",
+                "value":169716
+            },
+            {
+                "name":"Limitation",
+                "text":"Limitation",
+                "value":567809
+            },
+            {
+                "name":"LifeVitality",
+                "text":"Life Vitality",
+                "value":837165
+            },
+            {
+                "name":"atk",
+                "text":"Atk%",
+                "value":5.0
             }
         ]
     }

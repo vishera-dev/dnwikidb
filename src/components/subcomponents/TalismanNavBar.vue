@@ -1,5 +1,5 @@
 <template>
-    <v-list nav style="background-color:grey; color:white" class="text-center d-flex flex-column jade-nav-container">
+    <v-list nav style="background-color:grey; color:white" class="text-center d-flex flex-column talisman-nav-container">
           <v-toolbar-items class="hidden-xs-only">
           <v-btn
             flat
@@ -16,24 +16,27 @@
   
   <script>
   export default {
-      props:{
-          talismanType: {
-              type: String,
-              default: null
-          }
-      },
-      data: () => {
-          return {
-              drawer: false,
-              talisman: null,
-              menuItems: [
-                  { title: "Vibrant", value: "vibrant"},
-                  { title: "Chaos", value: "chaos"},
-                  { title: "Frozen Chaos", value: "frozen-chaos"},
-                  { title: "Eyes of Nightmare", value: "eyes-of-nightmare"}
-              ]
-          }
-      },
+    props:{
+        talismanType: {
+            type: String,
+            default: null
+        }
+    },
+    mounted() {
+        this.selectTalismanType('vibrant')
+    },
+    data: () => {
+        return {
+                drawer: false,
+                talisman: null,
+                menuItems: [
+                    { title: "Vibrant", value: "vibrant"}
+                //   { title: "Chaos", value: "chaos"},
+                //   { title: "Frozen Chaos", value: "frozen-chaos"},
+                //   { title: "Eyes of Nightmare", value: "eyes-of-nightmare"}
+                ]
+            }
+        },
       emits: ["typeSelected"],
       methods: {
             selectTalismanType(value) {
@@ -44,8 +47,9 @@
   </script>
   
   <style>
-  .jade-nav-container {
+  .talisman-nav-container {
       align-items: center;
+      margin-left: -80px;
       padding-top: 15px;
       padding-bottom: 15px;
   }

@@ -3,6 +3,7 @@ import DashboardView from '../views/Dashboard.vue'
 import ClassView from '../views/Classes.vue'
 import JadeView from '../views/Jade.vue'
 import TalismanView from '../views/Talisman.vue'
+import RuneView from '../views/Rune.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -26,6 +27,11 @@ const router = createRouter({
       path: '/talismans',
       name: 'talismans',
       component: TalismanView     
+    },
+    {
+      path: '/runes',
+      name: 'runes',
+      component: RuneView     
     }
   ]
 })
