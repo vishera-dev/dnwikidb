@@ -1,0 +1,38 @@
+[
+    {
+        "name":"step",
+        "text":"Step"
+    },
+    {
+        "name":"successRate",
+        "text":"Success Rate"
+    },
+    {
+        "name":"IronWall",
+        "text":"Iron Wall"
+    },
+    {
+        "name":"Tent",
+        "text":"Tent"
+    },
+    {
+        "name":"Destruction",
+        "text":"Destruction"
+    },
+    {
+        "name":"Magic",
+        "text":"Magic"
+    },
+    {
+        "name":"Fatal",
+        "text":"Fatal"
+    },
+    {
+        "name":"Limitation",
+        "text":"Limitation"
+    },
+    {
+        "name":"LifeVitality",
+        "text":"Life Vitality"
+    }
+]

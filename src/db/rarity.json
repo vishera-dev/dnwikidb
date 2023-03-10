@@ -1,0 +1,32 @@
+[
+    {
+        "key":"magic",
+        "name": "Magic",
+        "background-color": "green",
+        "text-align":"center"
+    },
+    {
+        "key":"rare",
+        "name": "Rare",
+        "background-color": "blue",
+        "text-align":"center"
+    },
+    {
+        "key":"epic",
+        "name": "Epic",
+        "background-color": "orange",
+        "text-align":"center"
+    },
+    {
+        "key":"unique",
+        "name": "Unique",
+        "background-color": "mediumpurple",
+        "text-align":"center"
+    },
+    {
+        "key":"legend",
+        "name": "Legend",
+        "background-color": "firebrick",
+        "text-align":"center"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "attemptTo",
+        "text": "Attempt To"
+    },
+    {
+        "name": "successRate",
+        "text": "Success Rate"
+    },
+    {
+        "name": "materials",
+        "text": "Materials",
+        "subHeaders": [
+            {
+                "name": "balkovFragment",
+                "text": "Balkov Fragments"
+            },
+            {
+                "name": "fatGravy",
+                "text": "Fat Gravy"
+            },
+            {
+                "name": "Power",
+                "text": "power"
+            }
+        ]
+    },
+    {
+        "name": "totalStatGain",
+        "text": "Total Stats Gain",
+        "subHeaders": [
+            {
+                "name": "attack",
+                "text": "Attack"
+            },
+            {
+                "name": "maxHp",
+                "text": "Max HP"
+            },
+            {
+                "name": "frozenAdaptability",
+                "text": "Frozen Adaptability"
+            }
+        ]
+    }
+]
